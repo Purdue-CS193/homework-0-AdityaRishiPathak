@@ -1,4 +1,19 @@
-## Welcome to Aditya Pathak's GitHub Page!
+# Aditya Pathak's First CS193 Homework
+
+- I like that the TAs are students too
+- I like that we are learning about GitHub
+- I like that I have made some friends in CS 193
+
+```
+Code Block
+_Italics don't work here_
+
+```
+_They do here_
+
+Guide Below...
+
+
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
